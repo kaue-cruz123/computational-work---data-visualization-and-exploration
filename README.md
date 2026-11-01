@@ -14,7 +14,7 @@ Pearson correlation between age and maximum heart rate.
 
 #### 1. Download the dataset 
 1. On the main page of this repository, click on the file `processed.cleveland.data`.
-2. 2. In the top right corner, click the download icon (downward arrow) to save the file to your computer.
+2. In the top right corner, click the download icon (downward arrow) to save the file to your computer.
 
 #### 2. Open the notebook in Google Colab 
 1. Go to [colab.research.google.com](https://colab.research.google.com).
