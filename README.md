@@ -1,11 +1,11 @@
-# Trabalho Computacional 1 – Análise do Cleveland Heart Disease
+# Computational Work 1 – Analysis of Cleveland Heart Disease
+Statistical analysis in Python (pandas, NumPy, Matplotlib, Seaborn, and SciPy) of the Cleveland Heart Disease dataset from the UCI Machine Learning repository. The work uses the variables age, sex, maximum heart rate (thalach), and presence of heart disease (target).
 
-Análise estatística em Python (pandas, NumPy, Matplotlib, Seaborn e SciPy) do dataset Cleveland Heart Disease, do repositório UCI Machine Learning. O trabalho usa as variáveis idade, sexo, frequência cardíaca máxima (thalach) e presença de doença cardíaca (target).
+# Steps:
 
-**Etapas:**
-1. Pré-processamento: tratamento de valores ausentes, duplicatas e binarização do target.
-2. Distribuição de frequência da idade.
-3. Visualização dos dados (histograma e demais gráficos).
-4. Variável aleatória discreta, com faixas etárias dos pacientes com doença.
-5. Teste qui-quadrado entre sexo e presença de doença.
-6. Correlação de Pearson entre idade e frequência cardíaca máxima.
+Preprocessing: handling missing values, duplicates, and binarizing the target.
+Age frequency distribution.
+Data visualization (histogram and other charts).
+Discrete random variable, with age ranges of patients with disease.
+Chi-square test between sex and presence of disease.
+Pearson correlation between age and maximum heart rate.
